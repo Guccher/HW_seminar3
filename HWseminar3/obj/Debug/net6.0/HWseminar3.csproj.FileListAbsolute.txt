@@ -1,0 +1,15 @@
+C:\Users\gucch\Desktop\HWseminar3\HWseminar3\bin\Debug\net6.0\HWseminar3.exe
+C:\Users\gucch\Desktop\HWseminar3\HWseminar3\bin\Debug\net6.0\HWseminar3.deps.json
+C:\Users\gucch\Desktop\HWseminar3\HWseminar3\bin\Debug\net6.0\HWseminar3.runtimeconfig.json
+C:\Users\gucch\Desktop\HWseminar3\HWseminar3\bin\Debug\net6.0\HWseminar3.dll
+C:\Users\gucch\Desktop\HWseminar3\HWseminar3\bin\Debug\net6.0\HWseminar3.pdb
+C:\Users\gucch\Desktop\HWseminar3\HWseminar3\obj\Debug\net6.0\HWseminar3.csproj.AssemblyReference.cache
+C:\Users\gucch\Desktop\HWseminar3\HWseminar3\obj\Debug\net6.0\HWseminar3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gucch\Desktop\HWseminar3\HWseminar3\obj\Debug\net6.0\HWseminar3.AssemblyInfoInputs.cache
+C:\Users\gucch\Desktop\HWseminar3\HWseminar3\obj\Debug\net6.0\HWseminar3.AssemblyInfo.cs
+C:\Users\gucch\Desktop\HWseminar3\HWseminar3\obj\Debug\net6.0\HWseminar3.csproj.CoreCompileInputs.cache
+C:\Users\gucch\Desktop\HWseminar3\HWseminar3\obj\Debug\net6.0\HWseminar3.dll
+C:\Users\gucch\Desktop\HWseminar3\HWseminar3\obj\Debug\net6.0\refint\HWseminar3.dll
+C:\Users\gucch\Desktop\HWseminar3\HWseminar3\obj\Debug\net6.0\HWseminar3.pdb
+C:\Users\gucch\Desktop\HWseminar3\HWseminar3\obj\Debug\net6.0\HWseminar3.genruntimeconfig.cache
+C:\Users\gucch\Desktop\HWseminar3\HWseminar3\obj\Debug\net6.0\ref\HWseminar3.dll
