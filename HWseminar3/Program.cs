@@ -39,7 +39,7 @@ while (count <= number)
 {
   result = Math.Pow(count,3);
   count++;
-  Console.WriteLine(""+result);
+  Console.WriteLine(result);
 }
     
 
