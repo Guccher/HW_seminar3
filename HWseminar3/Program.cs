@@ -15,18 +15,32 @@
 // Console.WriteLine("No"); 
 // }
 
-Console.Write("Введите X1: ");
-int x1 = int.Parse(Console.ReadLine());
-Console.Write("Введите Y1: ");
-int y1 = int.Parse(Console.ReadLine());
-Console.Write("Введите X2: ");
-int x2 = int.Parse(Console.ReadLine());
-Console.Write("Введите Y2: ");
-int y2 = int.Parse(Console.ReadLine());
-Console.Write("Введите Z1: ");
-int z1 = int.Parse(Console.ReadLine());
-Console.Write("Введите Z2: ");
-int z2 = int.Parse(Console.ReadLine());
+// Console.Write("Input X1: ");
+// int x1 = int.Parse(Console.ReadLine());
+// Console.Write("Input Y1: ");
+// int y1 = int.Parse(Console.ReadLine());
+// Console.Write("Input X2: ");
+// int x2 = int.Parse(Console.ReadLine());
+// Console.Write("Input Y2: ");
+// int y2 = int.Parse(Console.ReadLine());
+// Console.Write("Input Z1: ");
+// int z1 = int.Parse(Console.ReadLine());
+// Console.Write("Input Z2: ");
+// int z2 = int.Parse(Console.ReadLine());
 
-double formula = Math.Sqrt(Math.Pow(x1 -x2,2) + Math.Pow(y1-y2,2) + Math.Pow(z1-z2,2));
-Console.WriteLine($"d={formula:f3}");
+// double d = Math.Sqrt(Math.Pow(x1 -x2,2) + Math.Pow(y1-y2,2) + Math.Pow(z1-z2,2));
+// Console.WriteLine($"d={d:f3}");
+
+Console.Write("Input number: ");
+int number = int.Parse(Console.ReadLine());
+int count = 1;
+double result = 0;
+while (count <= number)
+{
+  result = Math.Pow(count,3);
+  count++;
+  Console.WriteLine(""+result);
+}
+    
+
+
